@@ -10,6 +10,14 @@ Revisiting Computer Networks:
 
 --
 
-Read book till pg 20 [zseanos methodology](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf) 
+Read book till pg 20 [zseanos methodology](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
+
 ## Day 2
 
+1. Read a good blog on BugBounty Methodology : [BUG HUNTING METHODOLOGY FOR BEGINNERS](https://infosecwriteups.com/bug-hunting-methodology-for-beginners-20b56f5e7d19)
+
+2. Subdomain Takeover: https://github.com/EdOverflow/can-i-take-over-xyz
+
+3. [How to take over a subdomain in Google Cloud DNS](https://binx.io/2022/01/27/how-to-take-over-a-subdomain-in-google-cloud-dns/)
+
+4. Found a subdomain takeover in a private Bugbounty Program
