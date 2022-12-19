@@ -21,3 +21,9 @@ Read book till pg 20 [zseanos methodology](https://www.bugbountyhunter.com/metho
 3. [How to take over a subdomain in Google Cloud DNS](https://binx.io/2022/01/27/how-to-take-over-a-subdomain-in-google-cloud-dns/)
 
 4. Found a subdomain takeover in a private Bugbounty Program
+
+## Day 3
+
+1. Learing Google Cloud Platform from Youtube: https://www.youtube.com/playlist?list=PLBGx66SQNZ8YWRUw6yicKtD4AIpUl_YiJ
+
+2. Tried exploiting subdomain takeover but google cloud not assigning the desired namesever shard while creating DNS Zone. Build script to create Zones recursively but it is randomly assigning only -a1 and -b1, But I need ns-cloud-d1.googledomains[.]com.
