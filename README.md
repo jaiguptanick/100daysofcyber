@@ -27,3 +27,11 @@ Read book till pg 20 [zseanos methodology](https://www.bugbountyhunter.com/metho
 1. Learing Google Cloud Platform from Youtube: https://www.youtube.com/playlist?list=PLBGx66SQNZ8YWRUw6yicKtD4AIpUl_YiJ
 
 2. Tried exploiting subdomain takeover but google cloud not assigning the desired namesever shard while creating DNS Zone. Build script to create Zones recursively but it is randomly assigning only -a1 and -b1, But I need ns-cloud-d1.googledomains[.]com.
+
+## Day 4
+
+1. Did recon on a Private Bug Bounty Program.
+
+2. Read on SSTI from [Portswigger Labs](https://portswigger.net/web-security/server-side-template-injection)
+
+3. Solved [Basic server-side template injection](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-basic)
