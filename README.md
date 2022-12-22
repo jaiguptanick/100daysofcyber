@@ -51,3 +51,9 @@ Solved all the server-side template injection (SSTI) labs from Portswigger Web-S
 [Server-side template injection in a sandboxed environment](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-a-sandboxed-environment)
 
 [Server-side template injection with a custom exploit](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit)
+
+## Day 6
+
+1. Did recon on a private program.
+2. Read Book: Protection of National Critical Information Infrastructure
+https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Information-Infrastructure.pdf
