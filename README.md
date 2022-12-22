@@ -57,3 +57,9 @@ Solved all the server-side template injection (SSTI) labs from Portswigger Web-S
 1. Did recon on a private program.
 2. Read Book: Protection of National Critical Information Infrastructure
 https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Information-Infrastructure.pdf
+
+## Day 7
+
+1. [Completed all the Access control vulnerabilities labs from Portswigger Web-Security Labs.](https://portswigger.net/web-security/all-labs#access-control-vulnerabilities)
+2. Read Blog on SSTI: [Handlebars template injection and RCE in a Shopify app](http://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html)
+3. Stared working on my BugBounty Recon Tool : Designed Basic Workflow Diagram
