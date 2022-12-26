@@ -78,3 +78,7 @@ https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Inf
 
 ## Day 10
 
+1. Did recon on a bugbounty target.
+2. Read Blogs:
+* [OTP Bypassing and Vulnerabilities from E-Mail fields](https://akash-venky091.medium.com/otp-bypassing-and-vulnerabilities-from-e-mail-fields-a5c326efa605)
+* [$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)
