@@ -82,3 +82,8 @@ https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Inf
 2. Read Blogs:
 * [OTP Bypassing and Vulnerabilities from E-Mail fields](https://akash-venky091.medium.com/otp-bypassing-and-vulnerabilities-from-e-mail-fields-a5c326efa605)
 * [$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)
+
+## Day 11
+1. Found critical IDOR revealing PII and OTP bypass on a domain
+2. Read blog:
+[Params — Discovering Hidden Treasure in WebApps](http://medium.com/geekculture/params-discovering-hidden-treasure-in-webapps-b4a78509290f)
