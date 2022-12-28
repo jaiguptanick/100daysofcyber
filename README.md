@@ -84,6 +84,13 @@ https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Inf
 * [$350 XSS in 15 minutes](https://therceman.medium.com/350-xss-in-15-minutes-dcb74ad93d5f)
 
 ## Day 11
+
 1. Found critical IDOR revealing PII and OTP bypass on a domain
 2. Read blog:
 [Params — Discovering Hidden Treasure in WebApps](http://medium.com/geekculture/params-discovering-hidden-treasure-in-webapps-b4a78509290f)
+
+## Day 12
+
+Prepared Detailed Report of both the bugs (critical IDOR revealing PII & OTP-bypass) and submitted them.
+Read Blog:  
+[What I learnt from reading 220* IDOR bug reports](http://medium.com/@nynan/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7)
