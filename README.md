@@ -102,5 +102,11 @@ Read Blog:
 1. Read: [Guide to Bug Bounty Hunting](https://github.com/bobby-lin/study-bug-bounty)
 2. Did recon on an domain.
 
+## Day 14
 
+1. Found another IDOR on a domain.
+2. Read Blog: 
+[Swagger API](http://medium.com/@ghostlulzhacks/swagger-api-c07eca05441e)
+
+## Day 15
 
