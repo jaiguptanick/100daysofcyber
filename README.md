@@ -65,10 +65,12 @@ https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Inf
 3. Stared working on my BugBounty Recon Tool : Designed Basic Workflow Diagram
 
 ## Day 8
+
 1. [Read writeup: Delete any Video or Reel on Facebook (11,250$)](http://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965?fbclid=IwAR16bED_J9-xqmnVq98jSp-JIyrCAhtfnns7gsdMGpFpEVZKr6VL7tVPebA)
 2. Watched the First Half playlist by [technical guftgu on CCNA for revisiting networking concepts](http://youtube.com/playlist?list=PLBGx66SQNZ8ZvdIoctCTWB3ApXQpQGEin)
 
 ## Day 9
+
 1. Solved Portswigger Labs:Authentication Bypass
 2. Read Blogs:
 * [Fastly Subdomain Takeover $2000](http://infosecwriteups.com/fastly-subdomain-takeover-2000-217bb180730f)
@@ -94,3 +96,11 @@ https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Inf
 Prepared Detailed Report of both the bugs (critical IDOR revealing PII & OTP-bypass) and submitted them.
 Read Blog:  
 [What I learnt from reading 220* IDOR bug reports](http://medium.com/@nynan/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7)
+
+## Day 13
+
+1. Read: [Guide to Bug Bounty Hunting](https://github.com/bobby-lin/study-bug-bounty)
+2. Did recon on an domain.
+
+
+
