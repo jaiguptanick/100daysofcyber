@@ -10,11 +10,14 @@ Revisiting Computer Networks:
 
 --
 
-Read book till pg 20 [zseanos methodology](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
+Read book till pg 20 
+
+[zseanos methodology](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
 
 ## Day 2
 
-1. Read a good blog on BugBounty Methodology : [BUG HUNTING METHODOLOGY FOR BEGINNERS](https://infosecwriteups.com/bug-hunting-methodology-for-beginners-20b56f5e7d19)
+1. Read a good blog on BugBounty Methodology : 
+* [BUG HUNTING METHODOLOGY FOR BEGINNERS](https://infosecwriteups.com/bug-hunting-methodology-for-beginners-20b56f5e7d19)
 
 2. Subdomain Takeover: https://github.com/EdOverflow/can-i-take-over-xyz
 
@@ -40,33 +43,33 @@ Read book till pg 20 [zseanos methodology](https://www.bugbountyhunter.com/metho
 
 Solved all the server-side template injection (SSTI) labs from Portswigger Web-Security Labs.
 
-[Basic server-side template injection (code context)](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-basic-code-context)
+* [Basic server-side template injection (code context)](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-basic-code-context)
 
-[Server-side template injection using documentation](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-using-documentation)
+* [Server-side template injection using documentation](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-using-documentation)
 
-[Server-side template injection in an unknown language with a documented exploit](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-using-documentation)
+* [Server-side template injection in an unknown language with a documented exploit](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-using-documentation)
 
-[Server-side template injection with information disclosure via user-supplied objects](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-information-disclosure-via-user-supplied-objects)
+* [Server-side template injection with information disclosure via user-supplied objects](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-information-disclosure-via-user-supplied-objects)
 
-[Server-side template injection in a sandboxed environment](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-a-sandboxed-environment)
+* [Server-side template injection in a sandboxed environment](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-in-a-sandboxed-environment)
 
-[Server-side template injection with a custom exploit](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit)
+* [Server-side template injection with a custom exploit](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit)
 
 ## Day 6
 
 1. Did recon on a private program.
-2. Read Book: Protection of National Critical Information Infrastructure
-https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Information-Infrastructure.pdf
+2. Read Book: 
+* [Protection of National Critical Information Infrastructure](https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Information-Infrastructure.pdf)
 
 ## Day 7
 
-1. [Completed all the Access control vulnerabilities labs from Portswigger Web-Security Labs.](https://portswigger.net/web-security/all-labs#access-control-vulnerabilities)
+1. Completed all the [Access control vulnerabilities labs from Portswigger Web-Security Labs.](https://portswigger.net/web-security/all-labs#access-control-vulnerabilities)
 2. Read Blog on SSTI: [Handlebars template injection and RCE in a Shopify app](http://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html)
 3. Stared working on my BugBounty Recon Tool : Designed Basic Workflow Diagram
 
 ## Day 8
 
-1. [Read writeup: Delete any Video or Reel on Facebook (11,250$)](http://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965?fbclid=IwAR16bED_J9-xqmnVq98jSp-JIyrCAhtfnns7gsdMGpFpEVZKr6VL7tVPebA)
+1. Read writeup: [Delete any Video or Reel on Facebook (11,250$)](http://bugreader.com/social/write-ups-general-delete-any-video-or-reel-on-facebook-11-250--100965?fbclid=IwAR16bED_J9-xqmnVq98jSp-JIyrCAhtfnns7gsdMGpFpEVZKr6VL7tVPebA)
 2. Watched the First Half playlist by [technical guftgu on CCNA for revisiting networking concepts](http://youtube.com/playlist?list=PLBGx66SQNZ8ZvdIoctCTWB3ApXQpQGEin)
 
 ## Day 9
@@ -89,13 +92,15 @@ https://www.vifindia.org/sites/default/files/Protection-of-National-Critical-Inf
 
 1. Found critical IDOR revealing PII and OTP bypass on a domain
 2. Read blog:
-[Params — Discovering Hidden Treasure in WebApps](http://medium.com/geekculture/params-discovering-hidden-treasure-in-webapps-b4a78509290f)
+
+* [Params — Discovering Hidden Treasure in WebApps](http://medium.com/geekculture/params-discovering-hidden-treasure-in-webapps-b4a78509290f)
 
 ## Day 12
 
 Prepared Detailed Report of both the bugs (critical IDOR revealing PII & OTP-bypass) and submitted them.
+
 Read Blog:  
-[What I learnt from reading 220* IDOR bug reports](http://medium.com/@nynan/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7)
+* [What I learnt from reading 220* IDOR bug reports](http://medium.com/@nynan/what-i-learnt-from-reading-220-idor-bug-reports-6efbea44db7)
 
 ## Day 13
 
@@ -110,3 +115,9 @@ Read Blog:
 
 ## Day 15
 
+1. Solved CORS labs from Portswigger Web Security Academy 
+
+2. Read blogs
+* [Bypassing SSRF Protection](http://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9)
+* [Oauth misconfiguration == Pre-Account Takeover](http://0xraminfosec.medium.com/oauth-misconfiguration-pre-account-takeover-988a2905a900)
+* [Authentication Bypass,File Upload,Arbitrary File Overwrite](https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8)
