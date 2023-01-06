@@ -121,3 +121,11 @@ Read Blog:
 * [Bypassing SSRF Protection](http://medium.com/@tobydavenn/bypassing-ssrf-protections-45e5e3ac31e9)
 * [Oauth misconfiguration == Pre-Account Takeover](http://0xraminfosec.medium.com/oauth-misconfiguration-pre-account-takeover-988a2905a900)
 * [Authentication Bypass,File Upload,Arbitrary File Overwrite](https://medium.com/@h4x0r_dz/23000-for-authentication-bypass-file-upload-arbitrary-file-overwrite-2578b730a5f8)
+
+## Day 16
+
+1. Did enumeration on a domain.
+2. Read about Business logic vulnerabilities:
+http://portswigger.net/web-security/logic-flaws
+
+## Day 17
