@@ -129,3 +129,17 @@ Read Blog:
 http://portswigger.net/web-security/logic-flaws
 
 ## Day 17
+
+1. Tried exploiting OTP bypass on a BugBounty program
+2. Solved some of the Business logic vulnerabilities from portswigger labs
+
+## Day 18
+
+Read Blogs: 
+1. [SSRF leading to AWS keys leakage](http://an0nymisss.blogspot.com/2023/01/ssrf-leading-to-aws-keys-leakage-bug.html?m=1)
+2. [Bypass Apple’s redirection process with the dot (“.”) character](http://infosecwriteups.com/bypass-apples-redirection-process-with-the-dot-character-c47d40537202)
+3. [Cross site leaks](http://gupta-bless.medium.com/ways-to-exploit-cross-site-leaks-4ab48f0a056a)
+4. [What is Doxing?](http://system32.ink/what-is-doxing-is-doxing-illegal/)
+5. [$500 in 5 minutes
+(broken link automation)](http://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337)
+
