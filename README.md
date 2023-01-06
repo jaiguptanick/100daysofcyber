@@ -143,3 +143,12 @@ Read Blogs:
 5. [$500 in 5 minutes
 (broken link automation)](http://medium.com/@coffeeaddict_exe/500-in-5-minutes-45977e89a337)
 
+## Day 19
+
+1. Did recon on a domain
+2. Read blogs
+* [Using Nuclei template to find subdomain takeover](http://hacklido.com/blog/198-how-i-found-130-sub-domain-takeover-vulnerabilities-using-nuclei)
+* [Automated and Continuous Recon/Attack Surface Management — Amass Track and DB](http://medium.com/@nynan/automated-and-continuous-recon-attack-surface-management-amass-track-and-db-fabcaffce3c3)
+
+## Day 20
+
