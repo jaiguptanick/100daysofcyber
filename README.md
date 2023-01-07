@@ -152,3 +152,9 @@ Read Blogs:
 
 ## Day 20
 
+1. Solved labs of Bussiness logic flaws Portswigger.
+2. Read Blogs:
+
+* [Blind XSS in Email Field; 1000$ bounty](http://yaseenzubair.medium.com/blind-xss-in-email-field-1000-bounty-b19b25a23236)
+* [Web-Cache Poisoning $$$? Worth it?](http://yaseenzubair.medium.com/web-cache-poisoning-worth-it-e7c6d88797b1)
+
