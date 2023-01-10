@@ -165,3 +165,8 @@ Read Race Conditon Blogs:
 * [What Is a Race Condition?](https://www.veracode.com/security/race-condition)
 * [RACE Condition vulnerability found in bug-bounty program](https://pravinponnusamy.medium.com/race-condition-vulnerability-found-in-bug-bounty-program-573260454c43)
 * [Hacktricks.xyz Race Condition](https://book.hacktricks.xyz/pentesting-web/race-condition)
+
+## Day22 
+1. Working on the recon tool.
+2. Read blog:
+* [Broken Authentication and Session Management Tips](http://hacklido.com/blog/207-broken-authentication-and-session-management-tips)
