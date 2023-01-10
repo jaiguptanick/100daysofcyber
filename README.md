@@ -167,6 +167,15 @@ Read Race Conditon Blogs:
 * [Hacktricks.xyz Race Condition](https://book.hacktricks.xyz/pentesting-web/race-condition)
 
 ## Day22 
+
+
 1. Working on the recon tool.
 2. Read blog:
 * [Broken Authentication and Session Management Tips](http://hacklido.com/blog/207-broken-authentication-and-session-management-tips)
+
+## Day23
+
+1. Working on the recon tool
+2. Read blogs:
+* [How I Found AWS API Keys using “Trufflehog” and Validated them using “enumerate-iam” tool](http://0xkayala.medium.com/how-i-found-aws-api-keys-using-trufflehog-and-validated-them-using-enumerate-iam-tool-cd6ba7c86d09)
+* [Subdomain takeover on GitHub Pages using Google Dorks](http://hacklido.com/blog/212-how-to-find-sub-domain-takeover-on-github-pages-using-google-dork)
