@@ -201,3 +201,14 @@ Read Race Conditon Blogs:
 2. Read blogs:
 * [How I Earned $1000 From Business Logic Vulnerability](http://andika-here.medium.com/how-i-earned-1000-from-business-logic-vulnerability-account-takeover-f03547950c82)
 * [Seven Common Ways To Bypass Login Page](http://medium.com/@uttamgupta_/seven-common-ways-to-bypass-login-page-a023d9dd073c)
+* [Password Stealing from HTTPS Login Page & CSRF Protection bypass via XSS](http://medium.com/dark-roast-security/password-stealing-from-https-login-page-and-csrf-bypass-with-reflected-xss-76f56ebc4516)
+
+
+## Day27
+
+
+1. Working on the recon tool.
+2. Read blog:
+* [Horizontal domain correlation](http://ghostlulz.com/horizontal-domain-correlation)
+* [How to pull off a successful NoSQL Injection attack](http://infosecwriteups.com/nosql-injection-8732c2140576)
+* [OWASP NoSQL(Fun with Objects and Arrays)](http://owasp.org/www-pdf-archive/GOD16-NOSQL.pdf)
