@@ -179,3 +179,10 @@ Read Race Conditon Blogs:
 2. Read blogs:
 * [How I Found AWS API Keys using “Trufflehog” and Validated them using “enumerate-iam” tool](http://0xkayala.medium.com/how-i-found-aws-api-keys-using-trufflehog-and-validated-them-using-enumerate-iam-tool-cd6ba7c86d09)
 * [Subdomain takeover on GitHub Pages using Google Dorks](http://hacklido.com/blog/212-how-to-find-sub-domain-takeover-on-github-pages-using-google-dork)
+
+## Day24
+
+1. Solved remaining bussiness logic vulnerability labs from Portswigger Web Security Academy.
+2. Read blog:
+* [How I fuzz and hack APIs?](http://rashahacks.com/how-i-fuzz-and-hack-api/)
+
