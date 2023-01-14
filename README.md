@@ -193,3 +193,11 @@ Read Race Conditon Blogs:
 2. Read Blog:
 *  [Everything about Cookie and Its Security](http://medium.com/@capturethebugs/everything-about-cookie-and-its-security-5edb55b0750d)
 
+
+## Day26
+
+
+1. Revisted notes.
+2. Read blogs:
+* [How I Earned $1000 From Business Logic Vulnerability](http://andika-here.medium.com/how-i-earned-1000-from-business-logic-vulnerability-account-takeover-f03547950c82)
+* [Seven Common Ways To Bypass Login Page](http://medium.com/@uttamgupta_/seven-common-ways-to-bypass-login-page-a023d9dd073c)
