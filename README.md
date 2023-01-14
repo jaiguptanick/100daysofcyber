@@ -186,3 +186,10 @@ Read Race Conditon Blogs:
 2. Read blog:
 * [How I fuzz and hack APIs?](http://rashahacks.com/how-i-fuzz-and-hack-api/)
 
+## Day25
+
+
+1. Tested API on an edtech website exposing PII.
+2. Read Blog:
+*  [Everything about Cookie and Its Security](http://medium.com/@capturethebugs/everything-about-cookie-and-its-security-5edb55b0750d)
+
