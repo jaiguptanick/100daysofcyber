@@ -212,3 +212,14 @@ Read Race Conditon Blogs:
 * [Horizontal domain correlation](http://ghostlulz.com/horizontal-domain-correlation)
 * [How to pull off a successful NoSQL Injection attack](http://infosecwriteups.com/nosql-injection-8732c2140576)
 * [OWASP NoSQL(Fun with Objects and Arrays)](http://owasp.org/www-pdf-archive/GOD16-NOSQL.pdf)
+
+
+## Day28
+
+
+1. Completed Udemy Course on "[Cybersecurity Incident Handling and Response](http://udemy.com/course/cyber-security-incident-handling-and-response/)"
+
+2. Read blog:
+* [A Story of a $750 Broken Access Control](http://cyberweapons.medium.com/a-story-of-a-700-broken-access-control-2ec2c21f6ffe)
+
+* [XSS via Chat bot — Cloudflare Bypassed](http://cyberweapons.medium.com/xss-via-chat-bot-cloudflare-bypassed-212cf5ee3e55)
