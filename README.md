@@ -223,3 +223,14 @@ Read Race Conditon Blogs:
 * [A Story of a $750 Broken Access Control](http://cyberweapons.medium.com/a-story-of-a-700-broken-access-control-2ec2c21f6ffe)
 
 * [XSS via Chat bot — Cloudflare Bypassed](http://cyberweapons.medium.com/xss-via-chat-bot-cloudflare-bypassed-212cf5ee3e55)
+
+
+## Day29
+
+
+1. Read blog:
+* [She hacked a billionaire, a bank and you could be next](http://youtube.com/watch?v=8MIIeIa25tE)
+* Flipper Zero:
+    * http://youtube.com/watch?v=VF3xlAm_tdo
+    * http://youtube.com/watch?v=yKTzek8EZ4E
+* [Grey Areas of Bugbounty World](http://medium.com/@know.0nix/grey-areas-of-bugbounty-world-5dd794c697a3)
