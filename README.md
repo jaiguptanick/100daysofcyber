@@ -234,3 +234,15 @@ Read Race Conditon Blogs:
     * http://youtube.com/watch?v=VF3xlAm_tdo
     * http://youtube.com/watch?v=yKTzek8EZ4E
 * [Grey Areas of Bugbounty World](http://medium.com/@know.0nix/grey-areas-of-bugbounty-world-5dd794c697a3)
+
+
+## Day30
+
+
+1. Working on Enum Tool.
+2. Read blog:
+* [How to spoof e-mails. (DMARC, SPF, and Phishing)](http://medium.com/bugbountywriteup/how-to-spoof-e-mails-dmarc-spf-and-phishing-5184c10679a0)
+* [How I could have read your confidential bug reports by simple mail?](http://medium.com/bugbountywriteup/how-i-could-have-read-your-confidential-bug-reports-by-simple-mail-cfd2e4f8e25c)
+* [Destroying the Scammers Portal — SBI Scam](http://infosecwriteups.com/destroying-the-scammers-portal-sbi-scam-2169e21adeeb)
+
+
