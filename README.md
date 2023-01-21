@@ -265,3 +265,12 @@ Read Race Conditon Blogs:
 
 Read Blog:
 * [Finding and Exploiting Unintended Functionality in Main Web App APIs](http://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af)
+
+## Day34
+
+
+1. Read Guide: [zseanos methodology](https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf)
+(pg: 20-30)
+2. Read Blog: 
+* [Full Company Building Takeover](http://infosecwriteups.com/company-building-takeover-10a422385390)
+* [PHP Type Juggling Vulnerabilities](https://medium.com/swlh/php-type-juggling-vulnerabilities-3e28c4ed5c09)
