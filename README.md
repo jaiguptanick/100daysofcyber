@@ -262,3 +262,6 @@ Read Race Conditon Blogs:
 * [SSH key injection in Google Cloud Compute Engine](http://blog.stazot.com/ssh-key-injection-google-cloud/)
 
 ## Day33
+
+Read Blog:
+* [Finding and Exploiting Unintended Functionality in Main Web App APIs](http://bendtheory.medium.com/finding-and-exploiting-unintended-functionality-in-main-web-app-apis-6eca3ef000af)
