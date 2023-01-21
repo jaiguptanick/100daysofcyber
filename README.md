@@ -246,3 +246,15 @@ Read Race Conditon Blogs:
 * [Destroying the Scammers Portal — SBI Scam](http://infosecwriteups.com/destroying-the-scammers-portal-sbi-scam-2169e21adeeb)
 
 
+## Day31
+
+1. Working on Enum Tool.
+(implemented keylogger and discord webhooks)
+2. Read blog:
+* [Tips for BAC and IDOR Vulnerabilities](http://infosecwriteups.com/tips-for-bac-and-idor-vulnerabilities-8a3e58f79d95)
+* [Kerala Police YouTube Takeover Incident Analysis](http://blog.initcrew.com/kp-hack/)
+
+## Day32
+
+
+## Day33
