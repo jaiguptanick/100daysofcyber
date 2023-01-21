@@ -256,5 +256,9 @@ Read Race Conditon Blogs:
 
 ## Day32
 
+1. Working on the enum tool:
+(Implemented screenshot,system info gathering functionality)
+2. Read blog:
+* [SSH key injection in Google Cloud Compute Engine](http://blog.stazot.com/ssh-key-injection-google-cloud/)
 
 ## Day33
