@@ -274,3 +274,22 @@ Read Blog:
 2. Read Blog: 
 * [Full Company Building Takeover](http://infosecwriteups.com/company-building-takeover-10a422385390)
 * [PHP Type Juggling Vulnerabilities](https://medium.com/swlh/php-type-juggling-vulnerabilities-3e28c4ed5c09)
+
+## Day35
+
+
+1. Revisited Notes of Enumerating Various Services in Pentesting
+2. Read Blog:
+* [Bypassing Captcha Like a Boss](http://medium.com/bugbountywriteup/bypassing-captcha-like-a-boss-d0edcc3a1c1)
+* [Git security audit reveals critical overflow bugs](https://portswigger.net/daily-swig/git-security-audit-reveals-critical-overflow-bugs)
+
+
+## Day36
+
+1. Solved tryhackme room:
+* Intro to Offensive Security
+* Web Application Security
+* Intro to Digital Forensics
+2. Read Blog:
+* [3 Step IDOR in HackerResume](http://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996)
+* [Hacking Government-Millions of Death-Certificate](http://debprasadbanerjee502.medium.com/hacking-government-millions-of-death-certificate-easy-2c28e67e22c9)
