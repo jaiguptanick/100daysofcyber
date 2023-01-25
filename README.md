@@ -293,3 +293,15 @@ Read Blog:
 2. Read Blog:
 * [3 Step IDOR in HackerResume](http://medium.com/@swapmaurya20/3-step-idor-in-hackerresume-a365f2632996)
 * [Hacking Government-Millions of Death-Certificate](http://debprasadbanerjee502.medium.com/hacking-government-millions-of-death-certificate-easy-2c28e67e22c9)
+
+
+## Day37
+
+1. Read about SSRF.
+2. Read Blog:
+* [Dependency Confusion: How I Hacked Into Apple, Microsoft and Dozens of Other Companies](http://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
+* [Dependency Confusion](https://dhiyaneshgeek.github.io/web/security/2021/09/04/dependency-confusion)
+* [RCE via Dependency Confusion](https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013)
+
+
+
