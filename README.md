@@ -304,4 +304,12 @@ Read Blog:
 * [RCE via Dependency Confusion](https://systemweakness.com/rce-via-dependency-confusion-e0ed2a127013)
 
 
+## Day38
+
+
+1. Read about SQLi
+2. Read Blogs: 
+* [Burp Suite Extensions for Web Hunting](http://infosecwriteups.com/burp-suite-extensions-for-web-hunting-44ffc3b655aa)
+* [From Zero to Adversary: APTs](http://socradar.io/from-zero-to-adversary-apts/)
+
 
