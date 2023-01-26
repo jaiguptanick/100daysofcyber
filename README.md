@@ -313,3 +313,10 @@ Read Blog:
 * [From Zero to Adversary: APTs](http://socradar.io/from-zero-to-adversary-apts/)
 
 
+## Day39
+
+1. Read about FTP, SSH, SMTP DNS, and its pentesting.
+2. Wrote Blog:
+* [Uncovering Vulnerabilities: Overview of Web Application Penetration Testing](https://jaiguptanick.medium.com/uncovering-vulnerabilities-overview-of-web-application-penetration-testing-methodology-79691ea4ba3e)
+3. Read Blog:
+* [Pentest - Everything SMTP](http://luemmelsec.github.io/Pentest-Everything-SMTP/)
