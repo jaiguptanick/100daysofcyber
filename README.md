@@ -339,6 +339,7 @@ Read Blog:
 * [Intro to the Content Security Policy (CSP)](http://blog.shiftleft.io/intro-to-the-content-security-policy-csp-c29266fa095f)
 * [What is the Same-Origin Policy?](http://blog.shiftleft.io/what-is-the-same-origin-policy-f5e365adad7e)
 
+
 ## Day 42
 
 
@@ -347,14 +348,21 @@ Read Blog:
 * [Top 25 XSS Bug Bounty Reports](http://corneacristian.medium.com/top-25-xss-bug-bounty-reports-b3c90e2288c8)
 * [Uncle Rat's Ultimate XSS Beginner Guide](http://youtube.com/watch?v=5r4E4EJwNo0)
 
+
 ## Day 43
 
+1. Revisited SNMP, SMB, MSRPC pentesting.
+2. Reading Blog:
+* [Top 25 XSS Bug Bounty Reports](https://corneacristian.medium.com/top-25-xss-bug-bounty-reports-b3c90e2288c8)
 
 
 ## Day 44
 
+1. Reading Notes:
+* [XSS (Cross Site Scripting)](https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting)
 
 ## Day 45
+
 
 
 ## Day 46
