@@ -342,8 +342,13 @@ Read Blog:
 ## Day 42
 
 
+1. Revisted XSS and javascript.
+2. Read Blogs:
+* [Top 25 XSS Bug Bounty Reports](http://corneacristian.medium.com/top-25-xss-bug-bounty-reports-b3c90e2288c8)
+* [Uncle Rat's Ultimate XSS Beginner Guide](http://youtube.com/watch?v=5r4E4EJwNo0)
 
 ## Day 43
+
 
 
 ## Day 44
