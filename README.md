@@ -323,8 +323,33 @@ Read Blog:
 
 
 ## Day40 
+
+
 1. Revisted NFS,RDP,VNC, LDAP,WinRM,mssql,MySQL pentesting.
 2. Read Blog:
 * [A logic flaw in npm](http://elinfosec.com/2022/my-first-report-on-hackerone-a-logic-flaw-in-npm/)
 
 
+## Day 41
+
+
+1. Revisted Insecure File Uploads.
+2. Tested a webapp.
+3. Read blog:
+* [Intro to the Content Security Policy (CSP)](http://blog.shiftleft.io/intro-to-the-content-security-policy-csp-c29266fa095f)
+* [What is the Same-Origin Policy?](http://blog.shiftleft.io/what-is-the-same-origin-policy-f5e365adad7e)
+
+## Day 42
+
+
+
+## Day 43
+
+
+## Day 44
+
+
+## Day 45
+
+
+## Day 46
