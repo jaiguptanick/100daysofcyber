@@ -363,6 +363,9 @@ Read Blog:
 
 ## Day 45
 
-
+1. Solved DOM XSS Labs from Portswigger
+2. Read Blog: 
+* [Reflected XSS Leads to 3,000$ Bug Bounty Rewards from Microsoft Forms](http://infosecwriteups.com/reflected-xss-leads-to-3-000-bug-bounty-rewards-from-microsoft-forms-efe34fc6b261)
+* [How i Hacked Scopely with “Sign in with Google”](http://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad)
 
 ## Day 46
