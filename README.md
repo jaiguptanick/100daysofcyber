@@ -369,3 +369,7 @@ Read Blog:
 * [How i Hacked Scopely with “Sign in with Google”](http://ph-hitachi.medium.com/how-i-hacked-scopely-using-sign-in-with-google-298a9c166ad)
 
 ## Day 46
+
+1. Watched networking tutorials (MAC,ARP)
+2. Read blogs:
+* [XSS, Flash Cross-Domain Policy, and CSRF Discovered on a Single Website](http://medium.com/@koroush.pub/xss-flash-cross-domain-policy-and-csrf-vulnerabilities-discovered-on-a-single-website-4948dff4ec11)
