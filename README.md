@@ -373,3 +373,11 @@ Read Blog:
 1. Watched networking tutorials (MAC,ARP)
 2. Read blogs:
 * [XSS, Flash Cross-Domain Policy, and CSRF Discovered on a Single Website](http://medium.com/@koroush.pub/xss-flash-cross-domain-policy-and-csrf-vulnerabilities-discovered-on-a-single-website-4948dff4ec11)
+
+## Day 47
+
+1. Did recon on a domain.
+2. Read blogs:
+* [Research | How can Local File Inclusion lead to RCE?](http://sl4x0.medium.com/research-how-can-local-file-inclusion-lead-to-rce-b3849d080929)
+* [Two Factor Authentication Bypass On Facebook](http://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c)
+
