@@ -394,5 +394,13 @@ Read Blog:
 ## Day 49
 
 
+1. Did ssl pinning bypass on Android and learning static analysis.
+2. Read blogs:
+* [DOM-Based XSS for fun and profit $$$!](https://medium.com/@haroonhameed_76621/dom-based-xss-for-fun-and-profit-bug-bounty-poc-f4b9554e95d)
+* [API Misconfiguration - No Swag of SwaggerUI](https://shahjerry33.medium.com/api-misconfiguration-no-swag-of-swaggerui-9b43135346be)
+* [How I identified & reported vulnerabilities in Oracle & the rewards of responsible disclosure:From Backup Leak to Hall of Fame](https://medium.com/@Parag_Bagul/how-i-identified-and-reported-vulnerabilities-in-oracle-and-the-rewards-of-responsible-43ee5fea457f)
+* [From Error_Log File(P4) To Company Account Takeover(P1) & Unauthorized Actions On API](https://medium.com/@mohanad.hussam23/from-error-log-file-p4-to-company-account-takeover-p1-and-unauthorized-actions-on-api-35e45e43273a)
+
+
 ## Day 50
 
