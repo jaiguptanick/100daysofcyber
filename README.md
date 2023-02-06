@@ -376,8 +376,23 @@ Read Blog:
 
 ## Day 47
 
+
 1. Did recon on a domain.
 2. Read blogs:
 * [Research | How can Local File Inclusion lead to RCE?](http://sl4x0.medium.com/research-how-can-local-file-inclusion-lead-to-rce-b3849d080929)
 * [Two Factor Authentication Bypass On Facebook](http://medium.com/pentesternepal/two-factor-authentication-bypass-on-facebook-3f4ac3ea139c)
+
+## Day 48
+
+
+1. Did recon on a domain and read about 403 bypass.
+2. Read blogs:
+* [HOW TO LAUNCH COMMAND PROMPT AND POWERSHELL FROM MS PAINT](https://tzusec.com/how-to-launch-command-prompt-and-powershell-from-ms-paint/)
+* [Story of a weird vulnerability I found on Facebook](https://amineaboud.medium.com/story-of-a-weird-vulnerability-i-found-on-facebook-fc0875eb5125)
+
+
+## Day 49
+
+
+## Day 50
 
