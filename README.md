@@ -404,3 +404,8 @@ Read Blog:
 
 ## Day 50
 
+
+1. Revisited Linux Privilege Escalation from Notes 
+2. Read blog:
+
+* [AWS S3 CTF Challenges](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
