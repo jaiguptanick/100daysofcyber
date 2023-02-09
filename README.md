@@ -409,3 +409,14 @@ Read Blog:
 2. Read blog:
 
 * [AWS S3 CTF Challenges](https://n0j.github.io/2017/10/02/aws-s3-ctf.html)
+
+
+## Day 51
+
+1. Read CORS from Portswigger 
+http://portswigger.net/web-security/cors
+2. Read blog:
+* [How I Was Able to Takeover User Accounts via CSRF on an E-Commerce Website](https://medium.com/@k_kisanak/how-i-was-able-to-takeover-user-accounts-via-csrf-on-an-e-commerce-website-1e2dcf740c3d)
+* [Web 3.0 : The Future of Web and CyberSecurity](https://medium.com/@saitle74/web-3-0-the-future-of-web-and-cybersecurity-da9784657fe2)
+
+
