@@ -420,3 +420,9 @@ http://portswigger.net/web-security/cors
 * [Web 3.0 : The Future of Web and CyberSecurity](https://medium.com/@saitle74/web-3-0-the-future-of-web-and-cybersecurity-da9784657fe2)
 
 
+## Day 52
+
+1. Solved CORS labs from Portswigger 
+2. Read blog:
+* [How we made $120k bug bounty in a year with good automation](https://vidocsecurity.com/blog/2022-summary-how-we-made-120k-bug-bounty-in-a-year/)
+* [Sensitive information disclosure through API](https://medium.com/@rynex797/sensitive-information-disclosure-through-api-750-bug-bounty-3161f0448249)
