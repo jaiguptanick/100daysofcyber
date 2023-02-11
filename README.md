@@ -426,3 +426,15 @@ http://portswigger.net/web-security/cors
 2. Read blog:
 * [How we made $120k bug bounty in a year with good automation](https://vidocsecurity.com/blog/2022-summary-how-we-made-120k-bug-bounty-in-a-year/)
 * [Sensitive information disclosure through API](https://medium.com/@rynex797/sensitive-information-disclosure-through-api-750-bug-bounty-3161f0448249)
+
+
+## Day 53
+
+1. Researched and preparing list of most common interview questions in cybersecurity.
+2. Read blog:
+* [How I was able to bypass OTP code requirement in Razer](https://infosecwriteups.com/how-i-was-able-to-bypass-otp-token-requirement-in-razer-the-story-of-a-critical-bug-fc63a94ad572)
+* [Bug Bounty Hunting 101, Js files Diving](https://medium.com/@haythamkarouata/bug-bounty-hunting-101-js-files-diving-4b1753fefb3d)
+
+
+## Day 54
+
