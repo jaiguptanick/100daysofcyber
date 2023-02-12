@@ -1,4 +1,4 @@
-# 100dayofcyber
+# 100daysofcyber
 Tracking my progress for 100 days learning something new daily....
 
 
@@ -438,3 +438,8 @@ http://portswigger.net/web-security/cors
 
 ## Day 54
 
+1. Solved box MrRobot on [TryHackMe](https://TryHackMe.com)
+2. Read blog:
+* [Account TakeOver using Resend OTP Functionality](https://infosecwriteups.com/my-first-bug-bounty-write-up-about-my-first-valid-finding-a-very-simple-ato-bug-in-a-target-who-1b8259f531d6)
+* [WHAT IS THREAT MODELING?](https://henrikparkkinen.com/2023/01/23/what-is-threat-modeling/)
+* [Watch out the links : Account takeover](https://akashhamal0x01.medium.com/watch-out-the-links-account-takeover-32b9315390a7)
