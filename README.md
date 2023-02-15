@@ -452,3 +452,11 @@ http://portswigger.net/web-security/cors
 * [Facebook Information Disclosure  Bug $X000](https://medium.com/bug-bounty-hunting/facebook-bug-bounty-story-x000-for-an-information-disclosure-bug-f0c0d19d7815)
 * [How I got a $2000 bounty with RXSS](https://p4n7h3rx.medium.com/how-i-got-a-2000-bounty-with-rxss-e6f45f987793)
 * [Subdomain Enumeration Guide](https://sidxparab.gitbook.io/subdomain-enumeration-guide/)
+
+## Day 56
+
+1. Read blog/video:
+* [Demystifying Cookies & Tokens!!](https://youtu.be/FZ_7xWZ03cQ)
+* [SSRF That Allowed Us to Access Whole Infra Web Services and Many More](https://basu-banakar.medium.com/ssrf-that-allowed-us-to-access-whole-infra-web-services-and-many-more-3424f8efa0e4)
+* [HubSpot Full Account Takeover in Bug Bounty](https://omar0x01.medium.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5)
+
