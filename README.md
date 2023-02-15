@@ -443,3 +443,12 @@ http://portswigger.net/web-security/cors
 * [Account TakeOver using Resend OTP Functionality](https://infosecwriteups.com/my-first-bug-bounty-write-up-about-my-first-valid-finding-a-very-simple-ato-bug-in-a-target-who-1b8259f531d6)
 * [WHAT IS THREAT MODELING?](https://henrikparkkinen.com/2023/01/23/what-is-threat-modeling/)
 * [Watch out the links : Account takeover](https://akashhamal0x01.medium.com/watch-out-the-links-account-takeover-32b9315390a7)
+
+
+## Day 55
+
+1. Solved box Eavesdropper on http://tryhackme.com/room/eavesdropper
+2. Read blog:
+* [Facebook Information Disclosure  Bug $X000](https://medium.com/bug-bounty-hunting/facebook-bug-bounty-story-x000-for-an-information-disclosure-bug-f0c0d19d7815)
+* [How I got a $2000 bounty with RXSS](https://p4n7h3rx.medium.com/how-i-got-a-2000-bounty-with-rxss-e6f45f987793)
+* [Subdomain Enumeration Guide](https://sidxparab.gitbook.io/subdomain-enumeration-guide/)
