@@ -460,3 +460,10 @@ http://portswigger.net/web-security/cors
 * [SSRF That Allowed Us to Access Whole Infra Web Services and Many More](https://basu-banakar.medium.com/ssrf-that-allowed-us-to-access-whole-infra-web-services-and-many-more-3424f8efa0e4)
 * [HubSpot Full Account Takeover in Bug Bounty](https://omar0x01.medium.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5)
 
+## Day 57
+
+1. Revisited Windows Privilege Escalation from Notes.
+2. Read Blogs:
+* [Guide to Permutations Subdomain Enumeration](https://rashahacks.com/guide-to-permutations-subdomain-enumeration/)
+* [Give me a browser, I’ll give you a Shell](https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0)
+* [Reveal the Cloud with Google Dorks](https://infosecwriteups.com/uncover-hidden-gems-in-the-cloud-with-google-dorks-8621e56a329d)
