@@ -467,3 +467,19 @@ http://portswigger.net/web-security/cors
 * [Guide to Permutations Subdomain Enumeration](https://rashahacks.com/guide-to-permutations-subdomain-enumeration/)
 * [Give me a browser, I’ll give you a Shell](https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0)
 * [Reveal the Cloud with Google Dorks](https://infosecwriteups.com/uncover-hidden-gems-in-the-cloud-with-google-dorks-8621e56a329d)
+
+
+## Day 58  
+
+1. Revisited AD basics from notes and http://tryhackme.com
+2. Read Blogs:
+* [We Hacked GitHub for a Month : Here’s What We Found](https://blog.cyberxplore.com/we-hacked-github-for-a-month-heres-what-we-found/?fbclid=PAAabibqae5LAKjn27cUJIxdzUN3QGCdjf4WgWrZFMa2dzX_AJ1-A1H3zz6so)
+
+
+## Day 59
+
+1. Watched some networking lectures on YouTube.
+2. Read Blogs:
+* [The Science of Learning for Hackers](https://tcm-sec.com/the-science-of-learning-for-hackers/)
+* [Why are you getting indexed by crawlers](https://github.com/tess-ss/writeups/blob/main/why-are-you-getting-indexed-by-crawlers.md)
+* [I Cracked OSWE at 18](https://dhakal-ananda.com.np/non-technical/2023/02/09/oswe-journey.html)
