@@ -483,3 +483,12 @@ http://portswigger.net/web-security/cors
 * [The Science of Learning for Hackers](https://tcm-sec.com/the-science-of-learning-for-hackers/)
 * [Why are you getting indexed by crawlers](https://github.com/tess-ss/writeups/blob/main/why-are-you-getting-indexed-by-crawlers.md)
 * [I Cracked OSWE at 18](https://dhakal-ananda.com.np/non-technical/2023/02/09/oswe-journey.html)
+
+
+## Day 60
+
+Read Blogs:
+* [WAF Bypass + XSS on The MOST Popular Movie Ticket website](https://medium.com/@tarang.parmar/xss-on-most-popular-entertaining-website-2fbf5a88df0f)
+* [Simplify Your Web Application Testing with These Python Snippets](https://ashraful004.medium.com/simplify-your-web-application-testing-with-these-python-snippets-108f662595f8)
+* [The Inside Story of Finding a Reverse Transaction Vulnerability in a Financial Application](https://medium.com/@rajauzairabdullah/the-inside-story-of-finding-a-reverse-transaction-vulnerability-in-a-financial-application-d73f9cd40f6f)
+* [How I got $$$$ Bounty within 5 mins](https://medium.com/@p4n7h3rx/how-i-got-bounty-within-5-mins-f1448f6db9b5)
