@@ -500,6 +500,7 @@ Read Blogs:
 2. Read Blogs:
 * [Facebook bug: A Journey from Code Execution to S3 Data Leak](https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef)
 * [LM, NTLM, Net-NTLMv2, oh my!](https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4)
+* [Rotten Potato – Privilege Escalation from Service Accounts to SYSTEM](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
 
 ## Day 62
 
@@ -525,6 +526,10 @@ Read Blogs:
 
 ## Day 65
 
+1. Read about Zerologon vuln & Updated OSCP boxes sheet.
+2. Read Blogs:
+* [Zerologon?? Easy Way To Take Over Active Directory](https://medium.com/mii-cybersec/zerologon-easy-way-to-take-over-active-directory-exploitation-c4b38c63a915)
+* [CVE Hunting Tips #004](https://themayor11.medium.com/cve-hunting-tips-004-d998fed85da5)
 
 
 ## Day 66
