@@ -507,3 +507,21 @@ Read Blogs:
 2. Read Blogs:
 * [Found an URL in android application source code which lead to IDOR](https://vengeance.medium.com/found-an-url-in-the-android-application-source-code-which-lead-to-an-idor-1b8768708756)
 * [Hacking Apple:Two Successful Exploits and Positive Thoughts on their BB Program](https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6)
+
+## Day 63
+
+1. Read Blogs:
+* [Information Disclosure in Adobe Experience Manager](https://medium.com/@fattselimi/information-disclosure-vulnerability-in-adobe-experience-manager-affecting-multiple-companies-2fb0558cd957)
+* [[1500$ Worth — Slack] vulnerability, bypass invite accept process](https://medium.com/@siratsami71/1500-worth-slack-vulnerability-bypass-invite-accept-process-8204e5431d52)
+
+## Day 64
+
+
+
+## Day 65
+
+
+
+## Day 66
+
+
