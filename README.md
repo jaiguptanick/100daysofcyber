@@ -526,6 +526,7 @@ Read Blogs:
 
 ## Day 65
 
+
 1. Read about Zerologon vuln & Updated OSCP boxes sheet.
 2. Read Blogs:
 * [Zerologon?? Easy Way To Take Over Active Directory](https://medium.com/mii-cybersec/zerologon-easy-way-to-take-over-active-directory-exploitation-c4b38c63a915)
@@ -534,4 +535,9 @@ Read Blogs:
 
 ## Day 66
 
+1. Solved Tryhackme room: Active Directory
+https://tryhackme.com/room/winadbasics
+2. Read Blogs:
+* [How did I found RCE on SHAREit which rewarded $$$ bounty](https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52)
+* [How do I take over another user subdomain name worth $$$$](https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7)
 
