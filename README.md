@@ -492,3 +492,12 @@ Read Blogs:
 * [Simplify Your Web Application Testing with These Python Snippets](https://ashraful004.medium.com/simplify-your-web-application-testing-with-these-python-snippets-108f662595f8)
 * [The Inside Story of Finding a Reverse Transaction Vulnerability in a Financial Application](https://medium.com/@rajauzairabdullah/the-inside-story-of-finding-a-reverse-transaction-vulnerability-in-a-financial-application-d73f9cd40f6f)
 * [How I got $$$$ Bounty within 5 mins](https://medium.com/@p4n7h3rx/how-i-got-bounty-within-5-mins-f1448f6db9b5)
+
+
+## Day 61
+
+1. Learned some windows priv esc techniques.
+2. Read Blogs:
+* [Facebook bug: A Journey from Code Execution to S3 Data Leak](https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef)
+* [LM, NTLM, Net-NTLMv2, oh my!](https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4)
+
