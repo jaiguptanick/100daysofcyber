@@ -501,3 +501,9 @@ Read Blogs:
 * [Facebook bug: A Journey from Code Execution to S3 Data Leak](https://medium.com/@win3zz/facebook-bug-a-journey-from-code-execution-to-s3-data-leak-698b7d2b02ef)
 * [LM, NTLM, Net-NTLMv2, oh my!](https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4)
 
+## Day 62
+
+1. Configured AD for testing purpose.
+2. Read Blogs:
+* [Found an URL in android application source code which lead to IDOR](https://vengeance.medium.com/found-an-url-in-the-android-application-source-code-which-lead-to-an-idor-1b8768708756)
+* [Hacking Apple:Two Successful Exploits and Positive Thoughts on their BB Program](https://blog.infiltrateops.io/hacking-apple-two-successful-exploits-and-positive-thoughts-on-their-bug-bounty-program-963efe7518f6)
