@@ -517,6 +517,11 @@ Read Blogs:
 ## Day 64
 
 
+1. Read Blogs:
+* [Let’s build a Chrome Spy Extension that steals everything](https://system32.ink/lets-build-a-chrome-spy-extension-that-steals-everything/)
+* [Cybersecurity Top 10 Predictions for 2023](https://system32.ink/cybersecurity-top-10-predictions-for-2023/)
+* [API 101: Securing the REST APIs](https://systemweakness.com/api-101-securing-the-rest-apis-e8b61196778f)
+
 
 ## Day 65
 
