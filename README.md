@@ -541,3 +541,10 @@ https://tryhackme.com/room/winadbasics
 * [How did I found RCE on SHAREit which rewarded $$$ bounty](https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52)
 * [How do I take over another user subdomain name worth $$$$](https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7)
 
+## Day 67
+
+1. Did recon on Target, found a bug as .git exposed.
+2. Read Blogs:
+* [Little bug, Big impact. 25k bounty](https://blog.prodefense.io/little-bug-big-impact-25k-bounty-9e47773f959f)
+* [$10.000 bounty for exposed .git to RCE](https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54)
+* [The Tale of a Command Injection by Changing the Logo](https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c)
