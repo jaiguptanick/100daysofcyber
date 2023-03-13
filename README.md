@@ -562,3 +562,10 @@ https://tryhackme.com/room/winadbasics
 * [Account Takeover worth of $5](https://gonzxph.medium.com/account-takeover-worth-of-5-dba784b32383)
 * [Hacker101- Javascipt For Hackers](http://youtu.be/FTeE3OrTNoA)
 
+## Day 70
+
+1. Found a Vulnerability on a domain, but they aren't running any VDP😑
+2. Read Blog:
+* [An Interesting Account Takeover!!](https://infosecwriteups.com/an-interesting-account-takeover-3a33f42d609d)
+* [How I Earned $1800 for finding a (Business Logic) Account Takeover Vulnerability?](https://medium.com/@0xd3vil/how-i-earned-1800-for-finding-a-business-logic-account-takeover-vulnerability-c84c78e6ade0)
+
