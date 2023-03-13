@@ -569,3 +569,10 @@ https://tryhackme.com/room/winadbasics
 * [An Interesting Account Takeover!!](https://infosecwriteups.com/an-interesting-account-takeover-3a33f42d609d)
 * [How I Earned $1800 for finding a (Business Logic) Account Takeover Vulnerability?](https://medium.com/@0xd3vil/how-i-earned-1800-for-finding-a-business-logic-account-takeover-vulnerability-c84c78e6ade0)
 
+## Day 71
+
+1. Revisited OWASP Top10. (this site has good graphical representation)
+https://hacksplaining.com/owasp
+2. Read Blogs:
+* [Unauthenticated GraphQL Introspection and API calls](https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf)
+
