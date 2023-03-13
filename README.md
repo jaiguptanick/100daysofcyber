@@ -594,3 +594,11 @@ https://hacksplaining.com/owasp
 * [Hunting on ASPX Application For P1's [Unauthenticated SOAP,RCE, Info Disclosure]](https://elmahdi.tistory.com/m/3)
 * [30-Minute Heist: How I Bagged a $1500 Bounty in Just few Minutes!](https://medium.com/@thelinuxboy/30-minute-heist-how-i-bagged-a-1500-bounty-in-just-few-minutes-48753eb2028e)
 
+## Day 74
+
+1. Completed 2/13 modules of API Pentesting course from https://apisecuniversity.com
+2. Read Blogs:
+* [How I Used JS files inspection and Fuzzing to do admins/support stuff](https://medium.com/@bag0zathev2/how-i-used-js-files-inspection-and-fuzzing-to-do-admins-supports-stuff-dd4f700605a)
+* [Bug Bounty Hunting 101:WAF Evasion](https://medium.com/@haythamkarouata/bug-bounty-101-waf-evasion-b2f4bf9cd11f)
+* [Blind XSS fired on Admin panel worth $2000](https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5)
+
