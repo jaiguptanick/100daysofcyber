@@ -602,3 +602,11 @@ https://hacksplaining.com/owasp
 * [Bug Bounty Hunting 101:WAF Evasion](https://medium.com/@haythamkarouata/bug-bounty-101-waf-evasion-b2f4bf9cd11f)
 * [Blind XSS fired on Admin panel worth $2000](https://medium.com/@feribytex/blind-xss-fired-on-admin-panel-worth-2000-abe2c83279b5)
 
+## Day 75
+
+1.  Solved SSRF labs from Portswigger Web Security
+https://portswigger.net/web-security/ssrf
+2. Read Blogs:
+* [The story of becoming a Super Admin](https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3)
+* [500$ Bounty in just 5 minutes through Recon!!!! AWS bucket Takeover](https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c)
+* [Can you spot the vulnerability? Intigriti challenge DOM XSS](https://infosecwriteups.com/can-you-spot-the-vulnerability-16022023-intigriti-a46068e557cc)
