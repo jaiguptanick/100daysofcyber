@@ -576,3 +576,10 @@ https://hacksplaining.com/owasp
 2. Read Blogs:
 * [Unauthenticated GraphQL Introspection and API calls](https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf)
 
+## Day 72
+
+1. Read Blogs:
+* [OTP Verification Bypass](https://jjainam16.medium.com/otp-verification-bypass-15312498fe10)
+* [5 ChatGPT Prompts for Bug Bounty](https://infosecwriteups.com/5-chatgpt-prompts-for-bug-bounty-6b7365d61b58)
+* [Create Your Own XSS Lab with ChatGPT](https://infosecwriteups.com/create-your-own-xss-lab-with-chatgpt-385c4e5e7f35)
+
