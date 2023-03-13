@@ -548,3 +548,10 @@ https://tryhackme.com/room/winadbasics
 * [Little bug, Big impact. 25k bounty](https://blog.prodefense.io/little-bug-big-impact-25k-bounty-9e47773f959f)
 * [$10.000 bounty for exposed .git to RCE](https://medium.com/@levshmelevv/10-000-bounty-for-exposed-git-to-rce-304c7e1f54)
 * [The Tale of a Command Injection by Changing the Logo](https://medium.com/@omidxrz/command-injection-by-changing-the-logo-2d730887ab6c)
+
+## Day 68
+1. Read Blogs:
+* [Exploiting Auto-save Functionality To Steal Login Credentials](https://saadahmedx.medium.com/exploiting-auto-save-functionality-to-steal-login-credentials-bf4c7e1594da)
+* [Account Takeover Worth $900](https://saadahmedx.medium.com/account-takeover-worth-900-cacbe10de58e)
+* [Easy bounties and Hall of fame](https://medium.com/@milanjain7906/essay-bounties-and-hall-of-fame-540a7e4d4cb8)
+
