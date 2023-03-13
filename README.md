@@ -555,3 +555,10 @@ https://tryhackme.com/room/winadbasics
 * [Account Takeover Worth $900](https://saadahmedx.medium.com/account-takeover-worth-900-cacbe10de58e)
 * [Easy bounties and Hall of fame](https://medium.com/@milanjain7906/essay-bounties-and-hall-of-fame-540a7e4d4cb8)
 
+## Day 69
+
+1. Read Blogs:
+* [If you think invite code or referral code is useless, then you should read this (Another critical bug in crypto exchange)](https://medium.com/@safe.edges/if-you-think-invite-code-or-referral-code-is-useless-then-you-should-read-this-another-critical-e7bd4de973f)
+* [Account Takeover worth of $5](https://gonzxph.medium.com/account-takeover-worth-of-5-dba784b32383)
+* [Hacker101- Javascipt For Hackers](http://youtu.be/FTeE3OrTNoA)
+
