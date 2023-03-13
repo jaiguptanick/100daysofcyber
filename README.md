@@ -536,7 +536,9 @@ Read Blogs:
 ## Day 66
 
 1. Solved Tryhackme room: Active Directory
+
 https://tryhackme.com/room/winadbasics
+
 2. Read Blogs:
 * [How did I found RCE on SHAREit which rewarded $$$ bounty](https://infosecwriteups.com/how-did-i-found-rce-on-shareit-which-rewarded-bounty-7d4196bf1b52)
 * [How do I take over another user subdomain name worth $$$$](https://parkerzanta.medium.com/how-do-i-take-over-another-user-subdomain-name-worth-c66bb0c3f2f7)
@@ -572,7 +574,9 @@ https://tryhackme.com/room/winadbasics
 ## Day 71
 
 1. Revisited OWASP Top10. (this site has good graphical representation)
+
 https://hacksplaining.com/owasp
+
 2. Read Blogs:
 * [Unauthenticated GraphQL Introspection and API calls](https://medium.com/@osamaavvan/unauthenticated-graphql-introspection-and-api-calls-92f1d9d86bcf)
 
@@ -582,4 +586,11 @@ https://hacksplaining.com/owasp
 * [OTP Verification Bypass](https://jjainam16.medium.com/otp-verification-bypass-15312498fe10)
 * [5 ChatGPT Prompts for Bug Bounty](https://infosecwriteups.com/5-chatgpt-prompts-for-bug-bounty-6b7365d61b58)
 * [Create Your Own XSS Lab with ChatGPT](https://infosecwriteups.com/create-your-own-xss-lab-with-chatgpt-385c4e5e7f35)
+
+## Day 73
+
+1. Read Blogs:
+* [Bypassing the Redirect filters with 7 ways](https://elmahdi.tistory.com/m/4)
+* [Hunting on ASPX Application For P1's [Unauthenticated SOAP,RCE, Info Disclosure]](https://elmahdi.tistory.com/m/3)
+* [30-Minute Heist: How I Bagged a $1500 Bounty in Just few Minutes!](https://medium.com/@thelinuxboy/30-minute-heist-how-i-bagged-a-1500-bounty-in-just-few-minutes-48753eb2028e)
 
