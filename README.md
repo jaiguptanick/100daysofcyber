@@ -641,3 +641,10 @@ https://hacksplaining.com/owasp
 * [The Secret Parameter, LFR, and Potential RCE in NodeJS Apps](https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps/)
 * [Microsoft NTLM](https://learn.microsoft.com/en-us/windows/win32/secauthn/microsoft-ntlm?redirectedfrom=MSDN)
 
+## Day 80
+
+1. Read Blogs: 
+* [Stripe’s Two-Factor Authentication (2FA) Bypass](https://infosecwriteups.com/stripes-two-factor-authentication-2fa-bypass-3765344cc272)
+* [REST API FUZZING](https://infosecwriteups.com/rest-api-fuzzing-4b82d2d7a67)
+* [CSRF in Importing CSV files [app . taxjar . com]](https://hackerone.com/reports/1637761)
+
