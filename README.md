@@ -656,3 +656,16 @@ https://portswigger.net/web-security/csrf
 * [OAuth 2.0 Authentication Misconfiguration](https://systemweakness.com/oauth-authentication-misconfiguration-cb43c3b3ec24)
 * [How I Automate BugBounty Using Chatgpt](https://medium.com/@Bendelladj/how-i-automated-bugbounty-using-chatgpt-91a5907ab3aa)
 
+## Day 82
+
+1. Read Blogs: 
+* [Shodan for Bug Bounty — and Why you shouldn’t use these 53 Dorks.](https://medium.com/@nynan/shodan-for-bug-bounty-and-why-you-shouldnt-use-these-53-dorks-bfa347285b61)
+* [Reconnaissance to Remote Code Execution:](https://medium.com/@kush.kira/recon-to-rce-b2d3d3b48182)
+
+## Day 83
+
+1. Read Blogs: 
+* [Web Cache Deception Attack](https://omergil.blogspot.com/2017/02/web-cache-deception-attack.html?m=1)
+* [Stealing Users OAuth authorization code via redirect_uri](https://hackerone.com/reports/1861974)
+* [Traveling with OAuth - Account Takeover on Booking .com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com)
+
