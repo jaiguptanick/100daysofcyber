@@ -669,3 +669,10 @@ https://portswigger.net/web-security/csrf
 * [Stealing Users OAuth authorization code via redirect_uri](https://hackerone.com/reports/1861974)
 * [Traveling with OAuth - Account Takeover on Booking .com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com)
 
+## Day 84
+
+1. Solved some CSRF labs from Portswigger Web Security.
+2. Read Blogs: 
+* [Single Sign-On: OAuth vs OIDC vs SAML— Part 1](https://infosecwriteups.com/single-sign-on-oauth-vs-oidc-vs-saml-part-1-bbbbbf010beb)
+* [Story of a Beautiful Account Takeover.](https://medium.com/@ambushneupane4/story-of-a-beautiful-account-takeover-869ef61ac6c8)
+
