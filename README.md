@@ -617,3 +617,12 @@ https://hacksplaining.com/owasp
 * [STRIPE Live Key Exposed:: Bounty: $1000](https://infosecwriteups.com/stripe-live-key-exposed-bounty-1000-dc670f2c5d9c)
 * [Bug Bounty Writeup $$$ || Parameter Tampering](https://aryasec.medium.com/bug-bounty-writeup-parameter-tampering-c9c0e43e4b47)
 
+## Day 77
+
+1.  Completed 4/13 modules of API Pentesting course from http://apisecuniversity.com
+2. Read Blogs:
+* [How to Use Autorize](https://authorizedentry.medium.com/how-to-use-autorize-fcd099366239)
+* [The story of how I was able to chain SSRF with Command Injection Vulnerability](https://medium.com/@rajqureshi07/the-story-of-how-i-was-able-to-chain-ssrf-with-command-injection-vulnerability-ef31feb30ea9)
+* [I Earned $3500 and 40 Points for A GraphQL Blind SQL Injection Vulnerability.](https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d)
+
+
