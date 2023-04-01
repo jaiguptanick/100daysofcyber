@@ -604,9 +604,16 @@ https://hacksplaining.com/owasp
 
 ## Day 75
 
-1.  Solved SSRF labs from Portswigger Web Security
-https://portswigger.net/web-security/ssrf
+1.  [Solved SSRF labs from Portswigger Web Security](https://portswigger.net/web-security/ssrf)
 2. Read Blogs:
 * [The story of becoming a Super Admin](https://medium.com/@omerkepenek/the-story-of-becoming-a-super-admin-ab32db7dd1b3)
 * [500$ Bounty in just 5 minutes through Recon!!!! AWS bucket Takeover](https://hunter-55.medium.com/500-bounty-in-just-5-minutes-through-recon-5eeb6c299c3c)
 * [Can you spot the vulnerability? Intigriti challenge DOM XSS](https://infosecwriteups.com/can-you-spot-the-vulnerability-16022023-intigriti-a46068e557cc)
+
+## Day 76
+
+1. Completed 3/13 modules of API Pentesting course from http://apisecuniversity.com
+2. Read Blogs:
+* [STRIPE Live Key Exposed:: Bounty: $1000](https://infosecwriteups.com/stripe-live-key-exposed-bounty-1000-dc670f2c5d9c)
+* [Bug Bounty Writeup $$$ || Parameter Tampering](https://aryasec.medium.com/bug-bounty-writeup-parameter-tampering-c9c0e43e4b47)
+
