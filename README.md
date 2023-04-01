@@ -632,3 +632,12 @@ https://hacksplaining.com/owasp
 * [Subdomain Takeover: How a Misconfigured DNS Record Could Lead to a Huge Supply Chain Attack](https://shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack)
 * [Out-of-band application security testing (OAST)](https://portswigger.net/burp/application-security-testing/oast)
 
+
+## Day 79
+
+1. Solved CTF challenges
+2. Read Blogs: 
+* [Hacker101 CTF: Android Challenge Writeups](https://infosecwriteups.com/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
+* [The Secret Parameter, LFR, and Potential RCE in NodeJS Apps](https://blog.shoebpatel.com/2021/01/23/The-Secret-Parameter-LFR-and-Potential-RCE-in-NodeJS-Apps/)
+* [Microsoft NTLM](https://learn.microsoft.com/en-us/windows/win32/secauthn/microsoft-ntlm?redirectedfrom=MSDN)
+
