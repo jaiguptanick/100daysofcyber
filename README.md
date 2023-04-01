@@ -626,3 +626,9 @@ https://hacksplaining.com/owasp
 * [I Earned $3500 and 40 Points for A GraphQL Blind SQL Injection Vulnerability.](https://nav1n.medium.com/i-earned-3500-and-40-points-for-a-graphql-blind-sql-injection-vulnerability-5b7e428c477d)
 
 
+## Day 78
+
+1. Read Blogs:
+* [Subdomain Takeover: How a Misconfigured DNS Record Could Lead to a Huge Supply Chain Attack](https://shockwave.cloud/blog/subdomain-takeover-how-a-misconfigured-dns-record-could-lead-to-a-huge-supply-chain-attack)
+* [Out-of-band application security testing (OAST)](https://portswigger.net/burp/application-security-testing/oast)
+
