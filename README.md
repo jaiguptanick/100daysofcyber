@@ -692,4 +692,16 @@ https://portswigger.net/web-security/csrf
 * [The curl quirk that exposed Burp Suite & Google Chrome](https://portswigger.net/research/the-curl-quirk-that-exposed-burp-suite-amp-google-chrome)
 
 
+## Day 87
 
+1. Developing a Enum Tool.
+2. Read Blogs
+* [Cool Recon techniques every hacker misses!](https://infosecwriteups.com/cool-recon-techniques-every-hacker-misses-1c5e0e294e89)
+* [Weak session management leads to Account Takeover](https://medium.com/@mrmaulik191/weak-session-management-leads-to-account-takeover-48d200ecfd09)
+* [A short tell of LFI from PDF link](https://medium.com/@bughuntar/a-short-tell-of-lfi-from-pdf-link-professor-the-hunter-43a8be853e)
+
+## Day 88
+
+## Day 89
+
+## Day 90
