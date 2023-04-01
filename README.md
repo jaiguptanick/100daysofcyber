@@ -676,3 +676,9 @@ https://portswigger.net/web-security/csrf
 * [Single Sign-On: OAuth vs OIDC vs SAML— Part 1](https://infosecwriteups.com/single-sign-on-oauth-vs-oidc-vs-saml-part-1-bbbbbf010beb)
 * [Story of a Beautiful Account Takeover.](https://medium.com/@ambushneupane4/story-of-a-beautiful-account-takeover-869ef61ac6c8)
 
+## Day 85
+
+1. Solved OAuth labs from Portswigger Web Security.
+2. Read Blog: 
+* [CSRF Takedown: Defeating Web Exploits with Code](https://infosecwriteups.com/csrf-takedown-defeating-web-exploits-with-code-e13d2bfd9bc1)
+* [CyberApocalypse CTF 2023 — HackTheBox](https://hotplugin.medium.com/cyberapocalypse-ctf-2023-hackthebox-169ac1880681)
