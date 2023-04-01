@@ -682,3 +682,14 @@ https://portswigger.net/web-security/csrf
 2. Read Blog: 
 * [CSRF Takedown: Defeating Web Exploits with Code](https://infosecwriteups.com/csrf-takedown-defeating-web-exploits-with-code-e13d2bfd9bc1)
 * [CyberApocalypse CTF 2023 — HackTheBox](https://hotplugin.medium.com/cyberapocalypse-ctf-2023-hackthebox-169ac1880681)
+
+## Day 86
+
+1. Read Blogs:
+* [Using an Undocumented Amplify API to Leak AWS Account IDs](https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/)
+* [My First Bug, Open redirect at Epic Games → $500 Bounty](https://medium.com/@bughuntar/my-first-bug-open-redirect-at-epic-games-500-bounty-d0c03de60fa7)
+* [SameSite Cookie Attack](https://medium.com/illumination/samesite-cookie-attack-cfd02d138852)
+* [The curl quirk that exposed Burp Suite & Google Chrome](https://portswigger.net/research/the-curl-quirk-that-exposed-burp-suite-amp-google-chrome)
+
+
+
