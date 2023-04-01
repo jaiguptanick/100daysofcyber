@@ -648,3 +648,11 @@ https://hacksplaining.com/owasp
 * [REST API FUZZING](https://infosecwriteups.com/rest-api-fuzzing-4b82d2d7a67)
 * [CSRF in Importing CSV files [app . taxjar . com]](https://hackerone.com/reports/1637761)
 
+## Day 81
+
+1. Solved CSRF labs from Portswigger Web Security.
+https://portswigger.net/web-security/csrf
+2. Read Blogs: 
+* [OAuth 2.0 Authentication Misconfiguration](https://systemweakness.com/oauth-authentication-misconfiguration-cb43c3b3ec24)
+* [How I Automate BugBounty Using Chatgpt](https://medium.com/@Bendelladj/how-i-automated-bugbounty-using-chatgpt-91a5907ab3aa)
+
