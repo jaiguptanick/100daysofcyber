@@ -717,8 +717,14 @@ https://tryhackme.com/room/owasptop10
 
 ## Day 90
 
-Read Blogs
+1. Read Blogs
 * [Account takeover in ChatGPT](https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d)
 * [Blind XSS via SMS Support Chat — $1100 Bug Bounty!](https://chevonphillip.medium.com/blind-xss-via-sms-support-chat-1100-bug-bounty-779a1e19cc51)
 * [Broken Link Leads to hijacking of Twitter Account](https://medium.com/@prakashchand72/broken-link-leads-to-hijacking-of-twitter-account-b105cb302f30)
 
+## Day 91
+
+1. Read Blogs
+* [Disclosing users of any facebook app connected to business account](http://medium.com/pentesternepal/disclosing-assigned-users-of-any-facebook-applications-connected-to-business-account-e2c3ffae8cad)
+* [Hacking Like Functionality of Twitter](https://infosecwriteups.com/hacking-the-like-functionality-of-twitter-3a5730687097)
+* [Evading SMS Security Feature of Prominent Mobile Antivirus](https://cyberworldmirror.com/evading-sms-security-feature-of-a-prominent-mobile-antivirus/)
