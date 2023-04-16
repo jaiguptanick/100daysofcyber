@@ -702,6 +702,12 @@ https://portswigger.net/web-security/csrf
 
 ## Day 88
 
+1. Solved box OWASP Top10 2021 
+https://tryhackme.com/room/owasptop10
+2. Read Blogs:
+* [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)
+* [What Is Endpoint Detection and Response (EDR)?](https://trellix.com/en-us/security-awareness/endpoint/what-is-endpoint-detection-and-response.html)
+
 ## Day 89
 
 ## Day 90
