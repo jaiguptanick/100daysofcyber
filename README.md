@@ -717,4 +717,8 @@ https://tryhackme.com/room/owasptop10
 
 ## Day 90
 
+Read Blogs
+* [Account takeover in ChatGPT](https://medium.com/@diegotellaroli05/account-takeover-in-chatgpt-e134ed11654d)
+* [Blind XSS via SMS Support Chat — $1100 Bug Bounty!](https://chevonphillip.medium.com/blind-xss-via-sms-support-chat-1100-bug-bounty-779a1e19cc51)
+* [Broken Link Leads to hijacking of Twitter Account](https://medium.com/@prakashchand72/broken-link-leads-to-hijacking-of-twitter-account-b105cb302f30)
 
