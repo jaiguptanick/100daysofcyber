@@ -710,4 +710,11 @@ https://tryhackme.com/room/owasptop10
 
 ## Day 89
 
+1. Read Blogs:
+* [From P5 to P2, from nothing to 1000+$](https://medium.com/@mohameddaher/from-p5-to-p5-to-p2-from-nothing-to-1000-bxss-4dd26bc30a82)
+* [Reverse proxy misconfiguration leads to 1-click account takeover](https://hackerone.com/reports/1632973)
+* [Waybackurls: A Powerful Tool for Cybersecurity Professionals to Enhance Reconnaissance and Identify Potential Vulnerabilities](https://medium.com/@cuncis/waybackurls-a-powerful-tool-for-cybersecurity-professionals-to-enhance-reconnaissance-and-identify-6a25031f4a1c)
+
 ## Day 90
+
+
