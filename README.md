@@ -752,3 +752,27 @@ https://tryhackme.com/room/owasptop10
 2. Read Blog:
 * [How I Leveraged Open Redirect to Account Takeover](https://goziem.medium.com/how-i-leveraged-open-redirect-to-account-takeover-9d877e8b30ef)
 
+## Day 95
+
+1. Read Blog:
+* [10 Google Dorks for Sensitive Data](https://infosecwriteups.com/10-google-dorks-for-sensitive-data-9454b09edc12)
+* [SSRF methodology by @iamaakashrathee](https://iamaakashrathee.medium.com/ssrf-methodology-by-aakash-rathee-f175665e2ea)
+* [Insecure Docker Registry API Leads To Pull All Private Docker Images](https://mostafa-mano.medium.com/insecure-docker-registry-api-leads-to-pull-all-private-docker-images-43b99c34f913)
+
+
+## Day 96
+
+
+## Day 97
+
+
+## Day 98
+
+
+## Day 99
+
+
+## Day 100
+
+
+
