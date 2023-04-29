@@ -736,3 +736,11 @@ https://tryhackme.com/room/owasptop10
 * [How to use Burp Suite Like a PRO?](https://medium.com/@nimmughal799/how-to-use-burp-suite-like-a-pro-20092412ed37)
 * [$6000 with Microsoft Hall of Fame | Microsoft Firewall Bypass | CRLF to XSS | Microsoft Bug Bounty](https://infosecwriteups.com/6000-with-microsoft-hall-of-fame-microsoft-firewall-bypass-crlf-to-xss-microsoft-bug-bounty-8f6615c47922)
 
+## Day 93
+
+1. Read Blogs
+* [3CX Breach Was a Double Supply Chain Compromise](https://krebsonsecurity.com/2023/04/3cx-breach-was-a-double-supply-chain-compromise/)
+* [Story of How I was able to Find and report 100+ Information Disclosures on Some Programs of HackerOne and Bugcrowd](https://medium.com/@cvop/story-of-how-i-was-able-to-find-and-report-100-information-disclosures-on-some-programs-of-14d0a9eb10b5)
+* [How I detected Open Redirect on a WhatsApp Message](https://medium.com/@TheeEclipse/how-i-detected-open-redirect-on-a-whatsapp-message-6c50f6ce5ebd)
+* [ICICI Bank Data Leak – Millions of Records with Sensitive Data Exposed](https://cybersecuritynews.com/icici-bank-data-leak)
+
