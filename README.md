@@ -728,3 +728,11 @@ https://tryhackme.com/room/owasptop10
 * [Disclosing users of any facebook app connected to business account](http://medium.com/pentesternepal/disclosing-assigned-users-of-any-facebook-applications-connected-to-business-account-e2c3ffae8cad)
 * [Hacking Like Functionality of Twitter](https://infosecwriteups.com/hacking-the-like-functionality-of-twitter-3a5730687097)
 * [Evading SMS Security Feature of Prominent Mobile Antivirus](https://cyberworldmirror.com/evading-sms-security-feature-of-a-prominent-mobile-antivirus/)
+
+## Day 92
+
+1. Solved XXE labs from Portswigger Web Security.
+2. Read Blogs
+* [How to use Burp Suite Like a PRO?](https://medium.com/@nimmughal799/how-to-use-burp-suite-like-a-pro-20092412ed37)
+* [$6000 with Microsoft Hall of Fame | Microsoft Firewall Bypass | CRLF to XSS | Microsoft Bug Bounty](https://infosecwriteups.com/6000-with-microsoft-hall-of-fame-microsoft-firewall-bypass-crlf-to-xss-microsoft-bug-bounty-8f6615c47922)
+
