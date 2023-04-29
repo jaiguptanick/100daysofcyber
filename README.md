@@ -744,3 +744,11 @@ https://tryhackme.com/room/owasptop10
 * [How I detected Open Redirect on a WhatsApp Message](https://medium.com/@TheeEclipse/how-i-detected-open-redirect-on-a-whatsapp-message-6c50f6ce5ebd)
 * [ICICI Bank Data Leak – Millions of Records with Sensitive Data Exposed](https://cybersecuritynews.com/icici-bank-data-leak)
 
+
+## Day 94
+
+1. Wrote a blog on [NTLM vs Kerberos: Understanding Authentication in Windows/Active Directory](https://jaiguptanick.medium.com/ntlm-vs-kerberos-understanding-authentication-in-windows-active-directory-143925d04c75)
+
+2. Read Blog:
+* [How I Leveraged Open Redirect to Account Takeover](https://goziem.medium.com/how-i-leveraged-open-redirect-to-account-takeover-9d877e8b30ef)
+
