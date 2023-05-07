@@ -782,3 +782,9 @@ https://tryhackme.com/room/owasptop10
 * [HTTP response splitting attack](https://resources.infosecinstitute.com/topic/http-response-splitting-attack/)
 
 
+## Day 99
+
+1. Read Blog:
+* [Information disclosure by sending a GIF on LinkedIn](https://hackerone.com/reports/1801427)
+* [CIDR IN HACKING](https://realm3ter.medium.com/cidr-in-hacking-d2e6245d74ec)
+
