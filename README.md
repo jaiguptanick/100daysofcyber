@@ -774,3 +774,11 @@ https://tryhackme.com/room/owasptop10
 * [XS-Leak: Deanonymize Microsoft Skype Users by any 3rd-party websites](https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8)
 * [Finding XSS in a million websites (cPanel CVE-2023-29489)](https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/)
 
+## Day 98
+
+1. Read Blog:
+* [Unique Rate limit bypass worth 1800$](https://infosecwriteups.com/unique-rate-limit-bypass-worth-1800-6e2947c7d972)
+* [Insecure deserialization](https://portswigger.net/web-security/deserialization)
+* [HTTP response splitting attack](https://resources.infosecinstitute.com/topic/http-response-splitting-attack/)
+
+
