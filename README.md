@@ -762,17 +762,8 @@ https://tryhackme.com/room/owasptop10
 
 ## Day 96
 
-
-## Day 97
-
-
-## Day 98
-
-
-## Day 99
-
-
-## Day 100
-
-
+1. Working on blog on Kerberoasting in AD.
+2. Read Blog:
+* [Email authentication: How SPF, DKIM and DMARC work together](https://techtarget.com/searchsecurity/answer/Email-authentication-How-SPF-DKIM-and-DMARC-work-together)
+* [Email spoofing with lack SPF and/or DMARC records](https://iamnijat.medium.com/email-spoofing-with-lack-spf-and-or-dmarc-records-1a414b8f821f)
 
