@@ -794,3 +794,5 @@ https://tryhackme.com/room/owasptop10
 * [Simple Account Takeover Worth $9,999](https://medium.com/@aliraza879612345/simple-account-takeover-worth-9-999-2c38f5d7fe67)
 * [PHP Backdoor Obfuscation](https://infosecwriteups.com/php-backdoor-obfuscation-a0fee97f00e2)
 * [Code Injection via Python Sandbox Escape — how I got a shell inside a network](https://medium.com/@mares.viktor/code-injection-via-python-sandbox-escape-how-i-got-a-shell-inside-a-network-c977c35a82de)
+
+ --END--
