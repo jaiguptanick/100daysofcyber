@@ -767,3 +767,10 @@ https://tryhackme.com/room/owasptop10
 * [Email authentication: How SPF, DKIM and DMARC work together](https://techtarget.com/searchsecurity/answer/Email-authentication-How-SPF-DKIM-and-DMARC-work-together)
 * [Email spoofing with lack SPF and/or DMARC records](https://iamnijat.medium.com/email-spoofing-with-lack-spf-and-or-dmarc-records-1a414b8f821f)
 
+## Day 97
+
+1. Read Blog:
+* [(Reverse) shell to your Azure VM as ‘Local System’ user or ‘root’ user](https://infosecwriteups.com/reverse-shell-to-your-azure-vm-as-local-system-user-or-root-user-b99569790091)
+* [XS-Leak: Deanonymize Microsoft Skype Users by any 3rd-party websites](https://infosecwriteups.com/xs-leak-deanonymize-microsoft-skype-users-by-any-3rd-party-website-69849e4501a8)
+* [Finding XSS in a million websites (cPanel CVE-2023-29489)](https://blog.assetnote.io/2023/04/26/xss-million-websites-cpanel/)
+
